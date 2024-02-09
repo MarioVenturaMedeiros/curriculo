@@ -11,9 +11,9 @@ slug: '/'
 
 &emsp;E-mail: mariozinhoventura@hotmail.com
 
-&emsp;Telefone: (24)99278-7098
+&emsp;Telefone: (xx)xxxxx-xxxx
 
-&emsp;Endereço: Rua Valson Lopes 101, apto 308
+&emsp;Endereço: Reino de OOO, casa na arvore 101
 
 &emsp;Linkedin: [Link para o Linkedin](https://www.linkedin.com/in/mário-ventura-medeiros-123682291/)
 
